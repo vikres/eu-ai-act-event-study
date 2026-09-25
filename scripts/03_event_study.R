@@ -28,7 +28,7 @@
 # =====================================================================
 
 # ---- CONFIG ----------------------------------------------------------
-DATA_DIR <- "C:/Users/victo/Downloads/thesis/data"
+DATA_DIR <- "data"
 INDEX_FILE <- "index.xlsx"         # <-- file holding the STOXX 600 RI series
 INDEX_SHEET <- "index"             # <-- worksheet name
 EST_START <- -250                  # estimation window start (trading days)

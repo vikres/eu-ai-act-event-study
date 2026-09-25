@@ -22,7 +22,7 @@
 # =====================================================================
 
 # ---- CONFIG: set this to the folder holding your data files ----------
-DATA_DIR <- "C:/Users/victo/Downloads/thesis/data"
+DATA_DIR <- "data"
 CONSTITUENTS_FILE <- "constituents.xlsx" # <-- EDIT to your raw WRDS filename
 # ---------------------------------------------------------------------
 

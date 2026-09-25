@@ -25,7 +25,7 @@
 # =====================================================================
 
 # ---- CONFIG ----------------------------------------------------------
-DATA_DIR <- "C:/Users/victo/Downloads/thesis/data"
+DATA_DIR <- "data"
 RETURNS_FILE <- "returns_batches.xlsx"     # <-- EDIT to your raw filename
 BATCH_SIZE <- 100                          # firms per batch (last batch may be fewer)
 N_BATCHES <- 7
